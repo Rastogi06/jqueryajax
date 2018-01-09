@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+$(document).ready(function(){
+    $("#btn1").click(function(){
+        $("#div1").load("Home.html")
+            
+    });
+        $("#btn2").click(function () {
+            $("#div1").load("AboutUs.html")
+
+        });
+        $("#btn3").click(function () {
+            $("#div1").load("ContactUs.html")
+
+        });
+        $("#btn4").click(function () {
+            $("#div1").load("Login.aspx")
+
+        });
+
+    });
+    </script>
+</head>
+<body>
+    <div id="div1"><h2>Welcome to HomePage</h2></div>
+
+    <button id="btn1">Click Here</button>
+    <button id="btn2">About Us</button>
+    <button id="btn3">Contact Us</button>
+    <button id="btn4">Aspx Page</button>
+</body>
+</html>

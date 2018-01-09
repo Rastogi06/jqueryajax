@@ -1,0 +1,9 @@
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\bin\WebApplicationGetPostJquery.dll.config
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\bin\WebApplicationGetPostJquery.dll
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\bin\WebApplicationGetPostJquery.pdb
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\obj\Debug\WebApplicationGetPostJquery.csprojResolveAssemblyReference.cache
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\obj\Debug\WebApplicationGetPostJquery.csproj.CoreCompileInputs.cache
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\obj\Debug\WebApplicationGetPostJquery.dll
+C:\Users\Learning\source\repos\WebApplicationGetPostJquery\WebApplicationGetPostJquery\obj\Debug\WebApplicationGetPostJquery.pdb
